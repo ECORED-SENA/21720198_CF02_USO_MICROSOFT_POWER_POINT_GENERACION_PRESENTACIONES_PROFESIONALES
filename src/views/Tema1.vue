@@ -317,7 +317,7 @@
             img(src='@/assets/curso/temas/img32.png', alt='Secuencia de opciones de PowerPoint para incrustar fuentes tipográficas dentro del archivo mediante el menú Archivo, Opciones y configuración de guardado. ').m-auto
       .row.align-items-center.mb-5
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-right")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Paso 1").ajuste-cajaAcordion
               p.mb-3 Con la presentación abierta, hacer clic en la pestaña #[b Archivo].
             .row(titulo="Paso 2").ajuste-cajaAcordion
