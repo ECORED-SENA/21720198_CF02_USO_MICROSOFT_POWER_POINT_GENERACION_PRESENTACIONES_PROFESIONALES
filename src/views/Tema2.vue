@@ -55,7 +55,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/img53.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Entrada").ajuste-cajaAcordion
               p.mb-3 Introducen elementos dentro del flujo visual de la diapositiva. En contextos profesionales, se recomienda utilizar efectos sutiles, como Desvanecer o Desplazar hacia arriba, configurados con duraciones breves para evitar distracciones innecesarias.
             .row(titulo="Énfasis").ajuste-cajaAcordion
@@ -317,7 +317,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/img76.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Calidad de presentación (1080p)").ajuste-cajaAcordion
               p.mb-3 Recomendada para pantallas de alta resolución y presentaciones proyectadas en gran formato.
             .row(titulo="Calidad de Internet (720p)").ajuste-cajaAcordion
@@ -476,11 +476,11 @@
                 p.mb-0 Dirigirse a la pestaña #[b Insertar] dentro de la cinta de opciones de PowerPoint.
               .col-auto(data-aos="zoom-in")
                 figure
-                  img(src='@/assets/curso/temas/img88.png', alt='' style="width: 300px").m-auto
+                  img(src='@/assets/curso/temas/img88.png', alt='' style="width: 400px").m-auto
             .row.align-items-center
               .col-auto.mb-4.mb-lg-0(data-aos="zoom-in")
                 figure
-                  img(src='@/assets/curso/temas/img89.png', alt='' style="width: 300px").m-auto
+                  img(src='@/assets/curso/temas/img89.png', alt='' style="width: 400px").m-auto
               .col-lg.fit___pasosA-left
                 h3 Exploración
                 p.mb-0 Seleccionar #[b Obtener complementos] o #[b Complementos > Tienda] para acceder al catálogo disponible.
@@ -490,11 +490,11 @@
                 p.mb-0 Utilizar el cuadro de búsqueda para localizar el complemento según nombre o funcionalidad requerida.
               .col-auto(data-aos="zoom-in")
                 figure
-                  img(src='@/assets/curso/temas/img90.png', alt='' style="width: 300px").m-auto
+                  img(src='@/assets/curso/temas/img90.png', alt='' style="width: 400px").m-auto
             .row.align-items-center
               .col-auto.mb-4.mb-lg-0(data-aos="zoom-in")
                 figure
-                  img(src='@/assets/curso/temas/img91.png', alt='' style="width: 300px").m-auto
+                  img(src='@/assets/curso/temas/img91.png', alt='' style="width: 400px").m-auto
               .col-lg.fit___pasosA-left
                 h3 Agregación
                 p.mb-0 Hacer clic en #[b Agregar] y posteriormente en #[b Continuar] para aceptar los términos y condiciones de uso.
@@ -504,7 +504,7 @@
                 p.mb-0 Una vez instalado, el complemento aparecerá generalmente en la pestaña #[b Insertar], #[b Inicio] o en una nueva pestaña creada automáticamente.
               .col-auto(data-aos="zoom-in")
                 figure
-                  img(src='@/assets/curso/temas/img92.png', alt='' style="width: 300px").m-auto
+                  img(src='@/assets/curso/temas/img92.png', alt='' style="width: 400px").m-auto
       .caja-6.mb-5(data-aos="fade-right")
         .col-lg-auto
           figure
@@ -592,7 +592,7 @@
           figure.d-none.d-xl-block
             img(src="@/assets/curso/temas/img99.png", alt="" ).m-auto
         .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")
             .row(titulo="Generación estructural instantánea").ajuste-cajaAcordion
               p.mb-3 Permite transformar ideas centrales o documentos extensos en estructuras organizadas de diapositivas con títulos, jerarquías y puntos clave definidos automáticamente.
             .row(titulo="Diseño coherente").ajuste-cajaAcordion
